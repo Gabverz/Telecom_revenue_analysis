@@ -1,6 +1,5 @@
-# sprint_04_project
+# Megaline Telecommunications Project - Prepaid Plan Revenue Analysis
 
-Megaline Telecommunications Project - Prepaid Plan Revenue Analysis
 ### Problem Context:
 Development of a comprehensive data analysis to determine which of two prepaid plans (Surf and Ultimate) offered by Megaline telecommunications company generates more revenue, using data from 500 customers throughout 2018.
 
